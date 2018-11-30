@@ -1,0 +1,3 @@
+[submodule "vendor/clickhouse"]
+	path = vendor/clickhouse
+	url = git@github.com:yandex/ClickHouse.git
